@@ -1,2 +1,1 @@
-# one-o-one-conversation-skill
-one-o-one-conversation-skill
+# An alexa speech recognition app made on javascript with nodejs
