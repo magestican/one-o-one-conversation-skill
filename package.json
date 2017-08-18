@@ -1,0 +1,19 @@
+{
+  "name": "bryan-arbelo",
+  "version": "1.0.0",
+  "description": "alexa skills",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "skill",
+    "alexa"
+  ],
+  "author": "magestican.visualkei@gmail.com",
+  "license": "ISC"
+}
